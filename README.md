@@ -1,2 +1,2 @@
 # pimatic-climate
-Plugin for control inhome climate
+Plugin for controlling inhome climate
